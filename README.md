@@ -1,6 +1,8 @@
 # LutaPDF downloads
 
-This repository holds the official LutaPDF release files. No source code is published here.
+Developed by **Eng.Luta**.
+
+This repository holds the official LutaPDF release binaries and installer packages.
 
 ## Download the latest version
 
